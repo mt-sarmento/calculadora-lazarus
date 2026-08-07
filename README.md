@@ -4,7 +4,7 @@
   <img src="Screenshot.png" alt="Imagem calculadora"/>
 </p>
 
-### Calculadora
+## Calculadora
 
 Calculadora simples desenvolvida em Pascal utilizando Lazarus.
 
