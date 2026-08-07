@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-  <img src="Screenshot_1.png" alt="Imagem calculadora"/>
+  <img src="Screenshot.png" alt="Imagem calculadora"/>
 </p>
 
 ### Calculadora
@@ -32,7 +32,7 @@ adicionadas em uma versão futura:
 - Melhor tratamento das entradas do usuário.
 
 <p align="right">
-  <img src="calc.ico" alt="Imagem calculadora"/>
+  <img src="calc.ico" alt="Ícone calculadora"/>
 </p>
 
 -------
